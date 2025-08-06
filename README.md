@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # School_Discipline_Management_App
 =======
 # l_app
